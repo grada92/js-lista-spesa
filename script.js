@@ -9,6 +9,7 @@ let spesa = document.getElementById('container');
 while (i < list.length){
     console.log(list[i]);
     i++;
+    spesa.innerHTML = list;
 }
 
 

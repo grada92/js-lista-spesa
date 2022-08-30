@@ -1,0 +1,26 @@
+/* generics */
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    font-family: sans-serif;
+    background-color: cadetblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+  }
+
+  #container {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+  }
